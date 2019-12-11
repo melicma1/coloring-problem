@@ -11,3 +11,6 @@ Aplikace pro obarvovani orientovaneho grafu. Nesmi byt dve barvy na sebe napojen
 * vysledek udelat vizualne pomoci PyQt5
 * moznost vyberu ruznych algoritmu k vypoctu problemu (backtrackig / vyzkouseni vsech moznosti)
 
+
+
+ZOBECNIT
