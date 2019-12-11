@@ -7,7 +7,6 @@ Aplikace pro obarvovani orientovaneho grafu. Nesmi byt dve barvy na sebe napojen
   * napriklad pocet moznych barvicek
   * jake barvy pouzit 
   * zda chce uzivatel vystup na terminal nebo do souboru
-  * dalsi
   * najit prvni vysledek nebo vsechny
 * vysledek udelat vizualne pomoci PyQt5
 * moznost vyberu ruznych algoritmu k vypoctu problemu (backtrackig / vyzkouseni vsech moznosti)
