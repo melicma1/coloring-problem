@@ -1,16 +1,11 @@
 # coloring-problem
-Aplikace pro obarvovani orientovaneho grafu. Nesmi byt dve barvy na sebe napojene.
+Interface pro algoritmy řešící grafové problémy. Přiklad spočtšní uzlů, coloring problem nebo hledání kliky. 
 
-* terminalova aplikace 
-* aplikace musi umoznovat vstup ze souboru (vstupni matice popisujici graf)
+* terminálová aplikace 
+* aplikace musí umožňovat vstup ze souboru (vstupní matice popisujicí graf)
 * aplikace bude pracovat s parametry 
-  * napriklad pocet moznych barvicek
-  * jake barvy pouzit 
-  * zda chce uzivatel vystup na terminal nebo do souboru
-  * najit prvni vysledek nebo vsechny
-* vysledek udelat vizualne pomoci PyQt5
-* moznost vyberu ruznych algoritmu k vypoctu problemu (backtrackig / vyzkouseni vsech moznosti)
-
-
-
-ZOBECNIT
+  * jaký algoritmus chce uživatel použít
+  * zda chce uživatel vystup na terminál nebo do souboru
+  * najít první výsledek nebo všechny
+* výsledek udělat vizuálně pomocí PyQt5
+* bude možné snadno přidávat algoritmy
